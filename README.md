@@ -20,5 +20,5 @@ use Bootstrap
 Figma and GH Repo links in comments
 Figma has to be approved before you can start with your coding 
 
-Peer Name:
-Peer Review:
+Peer Name:Chris Wells-Hott
+Peer Review:Good Job The code is good.
